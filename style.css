@@ -1,0 +1,5 @@
+
+body { font-family: sans-serif; text-align: center; padding: 20px; }
+video { width: 45%; margin: 10px; background: #000; border: 2px solid #333; }
+button { padding: 10px 20px; margin: 10px; font-size: 16px; }
+#status { font-weight: bold; margin-bottom: 20px; }
